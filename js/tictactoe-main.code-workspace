@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../Downloads/testimonials-grid-section-main"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "TicTacToe"
+  }
+}
